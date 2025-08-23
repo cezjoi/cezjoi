@@ -5,20 +5,52 @@
 
 🎯 **Aspiring Data Analyst | SQL | Python | Excel | Data Visualization**
 
-Welcome to my GitHub! I’m a Senior RPG Analyst/Developer and now exploring about turning raw data into meaningful insights.   
+Welcome to my GitHub! I am now exploring about turning raw data into meaningful insights.  
 Currently pursuing the **IBM Data Science Professional Certificate** and building hands-on projects in analytics, visualization, and reporting.  
 
 ---
-## 🛠️ Skills & Tools (SOON TO HAVE ALL of the following)
+
+## 🛠️ Skills & Tools (SOON!!!!)
 - **Languages:** Python (Pandas, NumPy), SQL  
 - **Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
 - **Data Wrangling:** Excel, Google Sheets  
 - **Other Tools:** Git/GitHub, Jupyter Notebooks  
 
-## 🏅 Certifications (GOAL for 2025)
-- SQL and Relational Databases 101 (https://courses.skillsbuild.skillsnetwork.site/certificates/94c562aabee44901b47ab511131f4e7a)
-- IBM Data Science Professional Certificate *(In Progress)*  
-- Google Data Analytics Professional Certificate  
-- SQL for Data Analysis (SkillsBuild / Coursera)  
+---
+
+## 📂 Featured Projects (SOON!!!!)
+- 📊 [Sales Performance Dashboard](https://github.com/yourusername/sales-dashboard)  
+   *Excel & Power BI dashboard analyzing sales performance by region & product.*  
+
+- 🛒 [E-Commerce Customer Segmentation](https://github.com/yourusername/ecommerce-segmentation)  
+   *Used Python (Pandas, Scikit-learn) for customer segmentation analysis.*  
+
+- 📈 [COVID-19 Data Analysis](https://github.com/yourusername/covid19-analysis)  
+   *Analyzed global COVID-19 trends with SQL queries and Python visualizations.*  
+
+---
+
+## 🏅 Certifications & Badges
+
+Here are some of the certifications I’ve earned:  
+
+- 🧩 [IBM Data Fundamentals Badge](badges_certificates/ibm-data-fundamentals-badge.png)  
+- 📊 [IBM Data Science Foundations Badge](badges_certificates/ibm-data-science-foundations-badge.png)  
+- 📈 [IBM Data Analytics Certificate](badges_certificates/ibm-data-analytics-certificate.pdf)  
+- 🐍 [Python for Data Science](badges_certificates/python-for-data-science-badge.png)  
+- 💾 [Databases & SQL Badge](badges_certificates/sql-badge.png)  
+- 🏆 [IBM Data Science Professional Certificate](badges_certificates/ibm-data-science-professional-certificate.pdf)  
+
+> 📂 All badge and certificate files are stored in my [`badges_certificates`](./badges_certificates) folder.  
+
+---
+
+## 📫 Connect with Me
+- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- ✉️ [Email](mailto:your.email@example.com)  
+- 📂 [Portfolio Website](https://yourportfolio.com) *(if available)*  
+
+---
 
 ⭐️ *I’m open to entry-level Data Analyst / Business Intelligence roles. Feel free to connect or check out my projects!*  
+
