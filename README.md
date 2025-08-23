@@ -15,13 +15,6 @@ Currently pursuing the **IBM Data Science Professional Certificate** and buildin
 - **Data Wrangling:** Excel, Google Sheets  
 - **Other Tools:** Git/GitHub, Jupyter Notebooks  
 
----
-
-## 🛠️ Skills & Tools
-**Languages:** Python (Pandas, NumPy), SQL  
-**Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
-**Wrangling:** Excel, Google Sheets  
-**Platforms/Other:** Git & GitHub, Jupyter Notebooks  
 
 ---
 
@@ -37,6 +30,7 @@ Currently pursuing the **IBM Data Science Professional Certificate** and buildin
 ### 📜 Certificates
 - [IBM Data Science Foundations Certificate (SkillsBuild)](https://courses.skillsbuild.skillsnetwork.site/certificates/94c562aabee44901b47ab511131f4e7a#)
 
+<!--
 > Full copies (PDF/links):  
 > - [IBM Data Fundamentals (PDF)](badges_certificates/ibm-data-fundamentals-certificate.pdf)  
 > - [Data Science Foundations (PDF)](badges_certificates/ibm-data-science-foundations-certificate.pdf)  
@@ -58,6 +52,7 @@ Currently pursuing the **IBM Data Science Professional Certificate** and buildin
   Repo: https://github.com/yourusername/covid19-analysis  
 
 ---
+-->
 
 ## 🎓 Current Learning
 - IBM Data Science Professional Certificate (SkillsBuild track)  
