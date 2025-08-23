@@ -21,10 +21,12 @@ Currently pursuing the **IBM Data Science Professional Certificate** and buildin
 ## 🏅 Certifications & Badges
 
 <p align="center">
-  <img src="badges_certificates/ibm-data-fundamentals-badge.png" alt="IBM Data Fundamentals" width="140" />
+  <img src="badges_certificates/ibm_skillsbuild.svg" alt="IBM Data Fundamentals" width="140" />
+  <!--
   <img src="badges_certificates/ibm-data-science-foundations-badge.png" alt="IBM Data Science Foundations" width="140" />
   <img src="badges_certificates/python-for-data-science-badge.png" alt="Python for Data Science" width="140" />
   <img src="badges_certificates/sql-badge.png" alt="Databases & SQL" width="140" />
+  -->
 </p>
 
 ### 📜 Certificates
