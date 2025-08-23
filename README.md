@@ -21,7 +21,7 @@ Currently pursuing the **IBM Data Science Professional Certificate** and buildin
 ## 🏅 Certifications & Badges
 
 <p align="center">
-  <img src="badges_certificates/ibm_skillsbuild.svg" alt="IBM Data Fundamentals" width="140" />
+  <img src="badges_certificates/ibm_skillsbuild.svg" alt="IBM Data Fundamentals" width="200" />
   <!--
   <img src="badges_certificates/ibm-data-science-foundations-badge.png" alt="IBM Data Science Foundations" width="140" />
   <img src="badges_certificates/python-for-data-science-badge.png" alt="Python for Data Science" width="140" />
@@ -30,7 +30,7 @@ Currently pursuing the **IBM Data Science Professional Certificate** and buildin
 </p>
 
 ### 📜 Certificates
-- [IBM Data Science Foundations Certificate (SkillsBuild)](https://courses.skillsbuild.skillsnetwork.site/certificates/94c562aabee44901b47ab511131f4e7a#)
+- [SQL and Relational Databases 101 (SkillsBuild)](https://courses.skillsbuild.skillsnetwork.site/certificates/94c562aabee44901b47ab511131f4e7a#)
 
 <!--
 > Full copies (PDF/links):  
