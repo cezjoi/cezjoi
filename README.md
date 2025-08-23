@@ -1,15 +1,12 @@
 # Hi, I'm Cecille Joy Villarama 👋
 
-<!--
-**cezjoi/cezjoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <p align="center">
 🎯 **Aspiring Data Analyst | SQL | Python | Excel | Data Visualization**
 
 Welcome to my GitHub! I am now exploring about turning raw data into meaningful insights.  
 Currently pursuing the **IBM Data Science Professional Certificate** and building hands-on projects in analytics, visualization, and reporting.  
-
 </p>
+
 ---
 
 ## 🛠️ Skills & Tools ( GOAL for Q4 of 2025)
@@ -24,7 +21,7 @@ Currently pursuing the **IBM Data Science Professional Certificate** and buildin
 **Languages:** Python (Pandas, NumPy), SQL  
 **Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
 **Wrangling:** Excel, Google Sheets  
-**Platforms/Other:** Git & GitHub, Jupyter Notebooks
+**Platforms/Other:** Git & GitHub, Jupyter Notebooks  
 
 ---
 
@@ -43,30 +40,29 @@ Currently pursuing the **IBM Data Science Professional Certificate** and buildin
 > Full copies (PDF/links):  
 > - [IBM Data Fundamentals (PDF)](badges_certificates/ibm-data-fundamentals-certificate.pdf)  
 > - [Data Science Foundations (PDF)](badges_certificates/ibm-data-science-foundations-certificate.pdf)  
-> - [Data Analytics Certificate (PDF)](badges_certificates/ibm-data-analytics-certificate.pdf)
+> - [Data Analytics Certificate (PDF)](badges_certificates/ibm-data-analytics-certificate.pdf)  
 
 ---
 
 ## 📂 Featured Projects
 - 📊 **Sales Performance Dashboard** — Power BI & Excel   
   *KPIs by region/product, variance vs target.*  
-  Repo: https://github.com/yourusername/sales-dashboard
+  Repo: https://github.com/yourusername/sales-dashboard  
 
 - 🛒 **E-Commerce Customer Segmentation** — Python, scikit-learn  
   *RFM features, K-Means clustering, profile segments.*  
-  Repo: https://github.com/yourusername/ecommerce-segmentation
+  Repo: https://github.com/yourusername/ecommerce-segmentation  
 
 - 📈 **COVID-19 Trends Analysis** — SQL + Python Viz  
   *Time-series queries, rolling averages, clear charts.*  
-  Repo: https://github.com/yourusername/covid19-analysis
+  Repo: https://github.com/yourusername/covid19-analysis  
 
 ---
 
 ## 🎓 Current Learning
-- IBM Data Science Professional Certificate (SkillsBuild track)
-- Weekly hands-on projects in Python, SQL & BI dashboards
+- IBM Data Science Professional Certificate (SkillsBuild track)  
+- Weekly hands-on projects in Python, SQL & BI dashboards  
 
----
 
 ## 📫 Connect
 - 🌐 LinkedIn: https://www.linkedin.com/in/yourprofile  
