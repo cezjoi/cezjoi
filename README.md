@@ -1,4 +1,4 @@
-# Hi, I'm Cecille Joy Villarama 👋
+# Hi, I'm Cez Joi 👋
 
 <p align="center">
 🎯 **Aspiring Data Analyst | SQL | Python | Excel | Data Visualization**
@@ -60,13 +60,21 @@ Currently pursuing the **IBM Data Science Professional Certificate** and buildin
 - IBM Data Science Professional Certificate (SkillsBuild track)  
 - Weekly hands-on projects in Python, SQL & BI dashboards  
 
+## 🌐 Languages
+
+| Language | Proficiency |
+|----------|-------------|
+| 🇬🇧 English | Fluent |
+| 🇵🇭 Filipino | Native |
+| 🇩🇪 German | A1 (Beginner) |
+
 
 ## 📫 Connect
 - 🌐 LinkedIn: https://www.linkedin.com/in/yourprofile  
-- ✉️ Email: your.email@example.com
+- ✉️ Email: cvillarama12@gmail.com
 
 ---
 
 ⭐️ I’m open to entry-level **Data Analyst / BI** roles. Let’s connect!
-⭐️ *I’m open to entry-level Data Analyst / Business Intelligence roles. Feel free to connect or check out my projects!*  
+ 
 
