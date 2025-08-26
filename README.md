@@ -30,11 +30,10 @@ Currently pursuing the **IBM Data Science Professional Certificate** and buildin
 </p>
 
 ### 📜 Certificates
-- [SQL and Relational Databases 101 (SkillsBuild)](https://courses.skillsbuild.skillsnetwork.site/certificates/94c562aabee44901b47ab511131f4e7a#)
-
-
 
 > Full copies (PDF/links):  
+> - [SQL and Relational Databases 101 (SkillsBuild)](https://courses.skillsbuild.skillsnetwork.site/certificates/94c562aabee44901b47ab511131f4e7a#)
+
 > - [IBM Getting Started with Data (PDF)](badges_certificates/IBMDesign20250826-7-vzw5c6.pdf)  
 
 <!--
