@@ -4,12 +4,12 @@
 🎯 **Aspiring Data Analyst | SQL | Python | Excel | Data Visualization**
 
 Welcome to my GitHub! I am now exploring about turning raw data into meaningful insights.  
-Currently pursuing the **IBM Data Science Professional Certificate** and building hands-on projects in analytics, visualization, and reporting.  
+Currently pursuing the **IBM Data Science Professional Certificate** and building hands-on projects in analytics, visualization, and reporting. Familiarization on Git/Github.  
 </p>
 
 ---
 
-## 🛠️ Skills & Tools ( GOAL for Q4 of 2025)
+## 🛠️ Skills & Tools ( GOALS for Q4 of 2025)
 - **Languages:** Python (Pandas, NumPy), SQL  
 - **Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
 - **Data Wrangling:** Excel, Google Sheets  
@@ -32,9 +32,12 @@ Currently pursuing the **IBM Data Science Professional Certificate** and buildin
 ### 📜 Certificates
 - [SQL and Relational Databases 101 (SkillsBuild)](https://courses.skillsbuild.skillsnetwork.site/certificates/94c562aabee44901b47ab511131f4e7a#)
 
-<!--
+
+
 > Full copies (PDF/links):  
-> - [IBM Data Fundamentals (PDF)](badges_certificates/ibm-data-fundamentals-certificate.pdf)  
+> - [IBM Getting Started with Data (PDF)](badges_certificates/IBMDesign20250826-7-vzw5c6.pdf)  
+
+<!--
 > - [Data Science Foundations (PDF)](badges_certificates/ibm-data-science-foundations-certificate.pdf)  
 > - [Data Analytics Certificate (PDF)](badges_certificates/ibm-data-analytics-certificate.pdf)  
 
