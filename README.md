@@ -24,9 +24,34 @@ Currently pursuing the **IBM Data Science Professional Certificate** and buildin
   <img src="badges_certificates/ibm_skillsbuild.svg" alt="IBM SkillsBuild" width="200" />
 </p>  
 
-<p
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">
   <img src="badges_certificates/getting-started-with-data.png" alt="IBM Getting Started with Data" width="140" />
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   <!--
   <img src="badges_certificates/ibm_skillsbuild.svg" alt="IBM Data Fundamentals" width="200" /
   <img src="badges_certificates/getting-started-with-data.png" alt="IBM Getting Started with Data" width="200" />
