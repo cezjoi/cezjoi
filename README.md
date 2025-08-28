@@ -35,8 +35,8 @@ Pursuing the **IBM Data Science Professional Certificate** and building hands-on
 
  <!--
 ## 🛠 Currently Learning & Using  
- -->
- 
+
+
 <p align="center">
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
@@ -45,6 +45,7 @@ Pursuing the **IBM Data Science Professional Certificate** and building hands-on
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 </p>  
+ -->
 ---
 
 ## 🏅 Certifications & Badges
@@ -132,7 +133,7 @@ Pursuing the **IBM Data Science Professional Certificate** and building hands-on
 
 
 ## 📫 Connect
-- 🌐 LinkedIn: https://www.linkedin.com/in/yourprofile  
+- 🌐 LinkedIn: https://www.linkedin.com/in/Cecille-Joy-Villarama  
 - ✉️ Email: cvillarama12@gmail.com
 
 ---
