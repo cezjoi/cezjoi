@@ -1,3 +1,6 @@
+# 📊 Data Enthusiast | Banking IT Expert | Future Data Analyst
+
+
 # Hi, I'm Cez Joi 👋
 
 I’m a **Senior RPG/AS400 Analyst Programmer** with over **18 years of experience** working in Software Development. Throughout my 12 years of career, I’ve been part of the **Core Banking IT Team** on one of the biggest bank in the Philippines where I specialized in:
@@ -19,8 +22,7 @@ I’m passionate about:
 <p align="center">
 🎯 **Aspiring Data Analyst | SQL | Python | Excel | Data Visualization**
 
-Welcome to my GitHub! I am now exploring about turning raw data into meaningful insights.  
-Currently pursuing the **IBM Data Science Professional Certificate** and building hands-on projects in analytics, visualization, and reporting. Familiarization on Git/Github.  
+Pursuing the **IBM Data Science Professional Certificate** and building hands-on projects in analytics, visualization, and reporting.  
 </p>
 
 ---
@@ -31,15 +33,18 @@ Currently pursuing the **IBM Data Science Professional Certificate** and buildin
 - **Data Wrangling:** Excel, Google Sheets  
 - **Other Tools:** Git/GitHub, Jupyter Notebooks  
 
+ <!--
 ## 🛠 Currently Learning & Using  
-
+ -->
+ 
+<p align="center">
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-
+</p>  
 ---
 
 ## 🏅 Certifications & Badges
