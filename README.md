@@ -1,5 +1,21 @@
 # Hi, I'm Cez Joi 👋
 
+I’m a **Senior RPG/AS400 Analyst Programmer** with over **18 years of experience** working in Software Development. Throughout my 12 years of career, I’ve been part of the **Core Banking IT Team** on one of the biggest bank in the Philippines where I specialized in:
+
+- 🧾 **General Ledger systems** – ensuring accurate, reliable, and automated financial reporting  
+- 🛡 **AMLA (Anti-Money Laundering Act) systems** – developing solutions to strengthen compliance and security  
+
+💡 My expertise lies in designing, developing, and maintaining robust banking applications that balance **business needs, compliance, and performance**.  
+
+I’m passionate about:
+- Clean and efficient code  
+- Solving complex financial and regulatory challenges with technology  
+- Continuous learning and sharing knowledge  
+
+---
+
+📊 **Currently, I am exploring a transition into Data Analytics**  
+
 <p align="center">
 🎯 **Aspiring Data Analyst | SQL | Python | Excel | Data Visualization**
 
@@ -15,6 +31,14 @@ Currently pursuing the **IBM Data Science Professional Certificate** and buildin
 - **Data Wrangling:** Excel, Google Sheets  
 - **Other Tools:** Git/GitHub, Jupyter Notebooks  
 
+## 🛠 Currently Learning & Using  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
 
