@@ -3,7 +3,7 @@
 
 # Hi, I'm Cez Joi 👋
 
-I’m a **Senior RPG/AS400 Analyst Programmer** with over **18 years of experience** working in Software Development. Throughout my 12 years of career, I’ve been part of the **Core Banking IT Team** on one of the biggest bank in the Philippines where I specialized in:
+I’m a **Senior RPG/AS400 Analyst Programmer** with over **18 years of experience** working in Software Development. Throughout my 12 years of career, I’ve been part of the **Core Banking IT Team** at one of the biggest banks in the Philippines where I specialized in:
 
 - 🧾 **General Ledger systems** – ensuring accurate, reliable, and automated financial reporting  
 - 🛡 **AMLA (Anti-Money Laundering Act) systems** – developing solutions to strengthen compliance and security  
