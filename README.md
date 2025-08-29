@@ -67,7 +67,7 @@ Pursuing the **IBM Data Science Professional Certificate** and building hands-on
 
 <p align="center">
   <img src="badges_certificates/getting-started-with-data.png" alt="IBM Getting Started with Data" width="140" />
-  <img src="badges_certificates/data-fundamentals.png" alt="IBM Data Fundamentals" width="200" /
+  <img src="badges_certificates/data-fundamentals.png" alt="IBM Data Fundamentals" width="140" /
 </p>
 
 
@@ -95,8 +95,9 @@ Pursuing the **IBM Data Science Professional Certificate** and building hands-on
 
 > Full copies (PDF/links):  
 > - [SQL and Relational Databases 101 (SkillsBuild)](https://courses.skillsbuild.skillsnetwork.site/certificates/94c562aabee44901b47ab511131f4e7a#)
-> - [IBM Getting Started with Data (PDF)](badges_certificates/IBMDesign20250826-7-vzw5c6.pdf)  
-> - [IBM Data Fundamentals (PDF)](badges_certificates/IBMDesign20250829_Data Fundamentals.pdf)  
+> - [IBM Getting Started with Data (PDF)](badges_certificates/IBMDesign20250826-7-vzw5c6.pdf)
+> - [IBM Getting Started with Data (PDF)](badges_certificates/IBMDesign20250826-7-vzw5c6.pdf)
+> - [IBM Data Fundamentals (PDF)](badges_certificates/IBMDesign20250829_DataFundamentals.pdf)  
 <!--
 > - [Data Science Foundations (PDF)](badges_certificates/ibm-data-science-foundations-certificate.pdf)  
 > - [Data Analytics Certificate (PDF)](badges_certificates/ibm-data-analytics-certificate.pdf)  
